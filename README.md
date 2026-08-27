@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
 
+Name: Mehul Narayanan V
+
+Register No: 212225040231
 
 # Aim : 
 
